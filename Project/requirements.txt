@@ -1,0 +1,9 @@
+numpy
+torch
+transformers
+datasets
+pillow
+torchvision
+evaluate
+scikit-learn
+accelerate
